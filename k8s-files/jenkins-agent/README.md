@@ -1,0 +1,1 @@
+docker push janindujm/eos-jenkins-agent-base
